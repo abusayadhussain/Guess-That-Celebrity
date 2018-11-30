@@ -1,0 +1,3 @@
+This is an app where an image of a celebrity is shown and user has to guess the name among the four name given below. that it is shown that 
+if the answer is right or wrong. if it is wrong than user can see the right answer and name of that celebrity. This app's gata is gather from 
+posh24.se. This is an old process of collect image and show it to the app. This is a test purpose of async task.
